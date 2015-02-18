@@ -1,6 +1,6 @@
 {
   "name": "doclogger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Saves mongodb docs to a new collection. Expects a mongoose model.",
   "main": "lib/logger.js",
   "scripts": {

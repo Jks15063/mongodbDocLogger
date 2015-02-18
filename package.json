@@ -1,6 +1,6 @@
 {
   "name": "doclogger",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Logs deleted mongodb docs",
   "main": "lib/logger.js",
   "scripts": {

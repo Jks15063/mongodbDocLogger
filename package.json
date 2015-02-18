@@ -1,5 +1,5 @@
 {
-  "name": "docLogger",
+  "name": "doclogger",
   "version": "1.0.0",
   "description": "Logs deleted mongodb docs",
   "main": "lib/logger.js",
@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jake Sellers",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Jks15063/mongodbDocLogger"
+  }
 }
